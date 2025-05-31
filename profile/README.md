@@ -67,7 +67,7 @@ CCleaner Professional Windows 2025 is the world’s leading PC optimization soft
 ![CCleaner Professional Dashboard](https://support.ccleaner.com/servlet/rtaImage?eid=ka6Qu000005Ycj8&feoid=00Nb000000AI7Hh&refid=0EM5p00000AC7lC)  
 *Main optimization dashboard on Windows for cleaning and health checks.*
 
-![Driver Updater Interface](https://support.ccleaner.com/servlet/rtaImage?eid=ka65p000000c1Qr&feoid=00Nb000000AI7Hh&refid=0EM5p00000ABR4v)  
+![Driver Updater Interface](https://support.ccleaner.com/servlet/rtaImage?eid=ka65p000000c1Qr&feoid=00Nb000000AI7Hh&refid=0EM5p00000ABR4C)  
 *Update drivers for enhanced performance.*
 
 
